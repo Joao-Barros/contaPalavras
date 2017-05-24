@@ -4,7 +4,7 @@
   "description": "trabalho orientado à calcular o total de palavras em uma frase.",
   "main": "index.js",
   "scripts": {
-    "test": "lab calc.spec.js"
+    "test": "lab -v contaPalavras.spec.js"
   },
   "author": "João Gabriel Fleck Barros",
   "license": "ISC",

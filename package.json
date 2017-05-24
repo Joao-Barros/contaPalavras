@@ -8,4 +8,8 @@
   },
   "author": "João Gabriel Fleck Barros",
   "license": "ISC",
+  "devDependencies": {
+    "code": "^4.0.0",
+    "lab": "^13.0.2"
+  }
 }
